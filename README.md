@@ -13,6 +13,12 @@ A pygame study project completed on March 10, 2025, focused on sprite animation,
 - High score tracking
 - Menu, get ready, and game over screens
 
+## Screenshots
+
+| Menu | Gameplay | Game Over |
+|------|----------|-----------|
+| ![Menu](screenshots/menu.png) | ![Gameplay](screenshots/gameplay.png) | ![Game Over](screenshots/game-over.png) |
+
 ## How to run
 
 ```bash
